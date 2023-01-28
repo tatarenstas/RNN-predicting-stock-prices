@@ -71,7 +71,6 @@ plt.xlabel("Time")
 plt.ylabel(f"{company} Share Price")
 plt.legend()
 plt.show()
-plt.savefig('image.png')
 
 real_data = [model_inputs[len(model_inputs) + 1 - prediction_days:len(model_inputs+1), 0]]
 real_data = np.array(real_data)
