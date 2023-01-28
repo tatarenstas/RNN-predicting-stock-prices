@@ -1,1 +1,1 @@
-"RNN predicting stock prices on Python" 
+RNN predicting stock prices on Python
